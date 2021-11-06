@@ -1,7 +1,7 @@
 
 # Java and Mobile Application Development - Course 1
 
-The basic inputs made in this course and shown by the professor are explained. You can review what was done below in order. If there are points you want to add, please correct us.
+The basic inputs made in this course and shown by the professor are explained. You can review what was done below in order. If there are points you want to add, please show us.
 
 ---
 
