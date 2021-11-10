@@ -32,7 +32,7 @@ A 'yedek' variable has been created to help us with the order of the random numb
 An algorithm is written that generates a random number, generates another number if it is passed in the 'dizi' array, and finally stops the loop if 6 numbers are produced.
 
 
-    	while(true) {
+	while(true) {
 		yedek=rastgele.nextInt(elemansayisi)+1;
 		int i = 0;
 		for (i = 0; i < dizi.length; i++) {
@@ -46,7 +46,7 @@ An algorithm is written that generates a random number, generates another number
 		}
 		if(sira==6)
 			break;
-	}
+	}	
 
 ---
 
