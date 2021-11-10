@@ -55,8 +55,8 @@ An algorithm is written that generates a random number, generates another number
 As a result, a for loop is created, which outputs the values ​​in the array to us in the console.
 
     	for(int i = 1; i <= 6; i++)	{
-			System.out.println(i+ " Numaralı Sayı: "+ dizi[i-1]);
-		}
+		System.out.println(i+ " Numaralı Sayı: "+ dizi[i-1]);
+	}
 
 ---
 
