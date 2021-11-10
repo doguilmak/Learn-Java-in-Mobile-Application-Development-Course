@@ -22,8 +22,8 @@ Variables that specify the random number generating variable, number range and h
 A 'yedek' variable has been created to help us with the order of the random numbers created in the array and in case of repetitive numbers.
 
     
-		int yedek;
-		int sira=0;
+	int yedek;
+	int sira=0;
 
 ---
 
