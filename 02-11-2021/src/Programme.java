@@ -10,8 +10,7 @@ public class Programme {
 			}
 				
 			public static double alan_hesapla(int r) {
-			
-				return Math.PI * Math.pow(r, 2);
+			        return Math.PI * Math.pow(r, 2);
 			}
 				
 			public static double hacim_hesapla(int r) {
