@@ -3,7 +3,6 @@
 
 This week, we created the algorithm that the professor asked us as homework. In the algorithm, we were tried to build a basic calculator that can only add numbers with using keyboard inputs.
 
----
 
 The basic inputs made in this course and shown by the professor are explained. You can review what was done below in order. If there are points you want to add, please correct us.
 
