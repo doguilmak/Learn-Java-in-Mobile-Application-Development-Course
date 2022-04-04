@@ -1,5 +1,5 @@
 
-# Java and Mobile Application Development - Course 4
+# Java and Mobile Application Development - Course 5
 
 This week, we created the algorithm that the professor asked us for as homework. In the algorithm, we were tried to build functions for several purposes.
 
