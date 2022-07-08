@@ -49,22 +49,22 @@ $$ 4 * \Pi * r^2$$
 
 For making calculation; <code>y_alan</code>, <code>volume</code>, <code> area</code>, <code>perimeter</code>, and also a radius <code>r</code> variable were created for four different calculations. After that we used our <code>cember</code>class for making calculations. In addition, we can define functions with making `cember cm = new cember();`.
 
-		int r=3;
-		double cevre=0, alan=0, hacim=0, y_alan=0;
-				
-		cevre = cember.cevre_hesapla(r);
-		alan = cember.alan_hesapla(r); 
-		hacim = cember.hacim_hesapla(r); 
-		
-		cember cm = new cember();
-		y_alan=cm.y_alan_hesapla(r);
+	int r=3;
+	double cevre=0, alan=0, hacim=0, y_alan=0;
+
+	cevre = cember.cevre_hesapla(r);
+	alan = cember.alan_hesapla(r); 
+	hacim = cember.hacim_hesapla(r); 
+
+	cember cm = new cember();
+	y_alan=cm.y_alan_hesapla(r);
 
 Let's print out our calculations and see.
 
-			System.out.println("Cevre: " + cevre);
-			System.out.println("Alan: " + alan);
-			System.out.println("Hacim: " + hacim);
-			System.out.println("Yüzey alani: " + y_alan);	
+	System.out.println("Cevre: " + cevre);
+	System.out.println("Alan: " + alan);
+	System.out.println("Hacim: " + hacim);
+	System.out.println("Yüzey alani: " + y_alan);	
 
 Output:
 
