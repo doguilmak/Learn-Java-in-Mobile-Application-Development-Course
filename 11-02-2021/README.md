@@ -7,6 +7,7 @@ The basic inputs made in this course and shown by the professor are explained. Y
 
 ---
 
+
 ### Building class
 
 We are building classes because classes help you take all the properties and behaviors of an object in your program, and combine them into a single template. The formulas in the class are given below.
@@ -46,7 +47,6 @@ $$ 4 * \Pi * r^2$$
 			
 	}
 
----
 
 ### Setting the variables
 
