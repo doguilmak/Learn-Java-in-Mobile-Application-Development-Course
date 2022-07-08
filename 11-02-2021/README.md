@@ -5,6 +5,8 @@ This week, we created the algorithm which can make calculations on circles and s
 
 The basic inputs made in this course and shown by the professor are explained. You can review what was done below in order. If there are points you want to add, please correct us.
 
+---
+
 ### Building class
 
 We are building classes because classes help you take all the properties and behaviors of an object in your program, and combine them into a single template. The formulas in the class are given below.
@@ -44,6 +46,7 @@ $$ 4 * \Pi * r^2$$
 			
 	}
 
+---
 
 ### Setting the variables
 
