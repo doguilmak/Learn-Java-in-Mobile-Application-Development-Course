@@ -26,21 +26,21 @@ $$ 4 * \Pi * r^2$$
     
 	class cember {
 			
-			public static double cevre_hesapla(int r) {
-				return 2 * Math.PI * r;
-			}
-				
-			public static double alan_hesapla(int r) {
-			        return Math.PI * Math.pow(r, 2);
-			}
-				
-			public static double hacim_hesapla(int r) {
-				return 4/3 * Math.PI * Math.pow(r, 3);
-			}
-				
-			public double y_alan_hesapla(int r) {
-				return 4 * Math.PI * Math.pow(r, 2);
-			}
+		public static double cevre_hesapla(int r) {
+			return 2 * Math.PI * r;
+		}
+
+		public static double alan_hesapla(int r) {
+			return Math.PI * Math.pow(r, 2);
+		}
+
+		public static double hacim_hesapla(int r) {
+			return 4/3 * Math.PI * Math.pow(r, 3);
+		}
+
+		public double y_alan_hesapla(int r) {
+			return 4 * Math.PI * Math.pow(r, 2);
+		}
 			
 	}
 
