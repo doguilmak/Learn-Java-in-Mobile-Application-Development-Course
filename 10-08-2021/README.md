@@ -1,5 +1,5 @@
 
-# Java and Mobile Application Development - Course 7
+# Java and Mobile Application Development - Course 4
 
 This week, we created the algorithm that can make 5x5 matrix with random integers between 0 and 24. In the algorithm, first we were tried to make 5x5 matrix from 0 to 24 without random order. Then, we made it with random utility.
 
