@@ -20,19 +20,19 @@ First, we created the row, column, delimiter and array values. Then, variables w
 
 ### Branching process of generating matrix
 
-Row and column values ​​are created in a nested loop. First, row and then column values ​​are assigned. When the column loop is completed, <code>System.out.println()</code> makes a new line to show the matrix relatively better on the console. This continued until `satir` equals 4 ​​(to create a 5x5 matrix).
+Row and column values are created in a nested loop. First, row and then column values are assigned. When the column loop is completed, <code>System.out.println()</code> makes a new line to show the matrix relatively better on the console. This continued until `satir` equals 4 (to create a 5x5 matrix).
 
 
-		for(int i=0;i<satir;i++)
-		{			
-			for(int j=0;j<sutun;j++)
-			{				
-				dizi[i][j]=sabit;
-				System.out.print(dizi[i][j]+ "\t");
-				sabit++;				
-			}			
-			System.out.println();		
+	for(int i=0;i<satir;i++)
+	{
+		for(int j=0;j<sutun;j++)
+		{
+			dizi[i][j]=sabit;
+			System.out.print(dizi[i][j]+ "\t");
+			sabit++;			
 		}
+		System.out.println();	
+	}
 
 Console:
 
@@ -69,7 +69,7 @@ The matrix will be created within the framework of the specified parameters, as 
 		{
 			for(int j=0;j<sutun;j++)
 			{
-				Random rast=new Random();	
+				Random rast=new Random();
 				int sabit=rast.nextInt(25);
 				dizi[i][j]=sabit;
 				System.out.print(dizi[i][j]+ "\t");
@@ -83,9 +83,9 @@ Console:
 > 
 > 0 &nbsp;&nbsp;&nbsp;&nbsp;5 &nbsp;&nbsp;&nbsp;&nbsp;17 &nbsp;&nbsp;3 &nbsp;&nbsp;&nbsp;&nbsp;24
 > 
-> 5	&nbsp;&nbsp;&nbsp;&nbsp;13 &nbsp;&nbsp;1 &nbsp;&nbsp;&nbsp;&nbsp;21 &nbsp;&nbsp;18
+> 5 &nbsp;&nbsp;&nbsp;&nbsp;13 &nbsp;&nbsp;1 &nbsp;&nbsp;&nbsp;&nbsp;21 &nbsp;&nbsp;18
 > 
-> 8	&nbsp;&nbsp;&nbsp;&nbsp;12 &nbsp;&nbsp;22 &nbsp;&nbsp;8 &nbsp;&nbsp;&nbsp;&nbsp;24
+> 8 &nbsp;&nbsp;&nbsp;&nbsp;12 &nbsp;&nbsp;22 &nbsp;&nbsp;8 &nbsp;&nbsp;&nbsp;&nbsp;24
 > 
 > 22  &nbsp;&nbsp;18 &nbsp;&nbsp;8 &nbsp;&nbsp;&nbsp;&nbsp;8 &nbsp;&nbsp;&nbsp;&nbsp;4
 
