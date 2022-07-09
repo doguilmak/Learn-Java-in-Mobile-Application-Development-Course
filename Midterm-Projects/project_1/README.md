@@ -5,8 +5,6 @@ This exercise is one of the studies that the professor asked us to do in prepara
 
 The basic inputs made in this course and shown by the professor are explained. You can review what was done below in order. If there are points you want to add, please correct us.
 
----
-
 ### Creating loop for right to roll the dice
 
 As stated before, we have right to roll the dice 4 times in total in the game. A <code>while</code> loop is created for this. `oyun_hakki` is corresponds to limiting parameter which is our right to roll.
@@ -105,8 +103,11 @@ Output:
 Output:
 
 > Oyun 4 
+> 
 > 1 Numarali Zar = 2 
+> 
 > 2 Numarali Zar = 5 Zar toplami = 7 
+> 
 > Kazandin! Sayi: 7
 
 #### Game 3
