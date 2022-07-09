@@ -19,7 +19,6 @@ As stated before, we have right to roll the dice 4 times in total in the game. A
 	        }
 	}
 
----
 
 ### Creating dice
 
@@ -36,7 +35,6 @@ It could be better to show the results on the console in every loop:
     System.out.println("2 Numarali Zar = " + zar2);
     System.out.println("Zar toplami = " + toplam);
 
----
 
 ### Branching process of generating six integers 
 
