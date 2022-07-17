@@ -13,6 +13,7 @@ The basic inputs made in this course and shown by the professor are explained. Y
 We are building classes because classes help you take all the properties and behaviors of an object in your program, and combine them into a single template. The formulas in the class are given below.
 
 Builded <code>cevre_hesapla</code> for calculading circumference of the circle.
+
 $$ 2 *\Pi * r$$
 
 Builded <code>alan_hesapla</code> for calculading area of the circle.
