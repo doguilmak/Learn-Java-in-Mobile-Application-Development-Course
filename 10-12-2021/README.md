@@ -39,7 +39,7 @@ The `next()` is a method of the Java Scanner class that finds and returns the ne
 
 ### Building function to print string variable parameter
 
-The `yaz and yazln` functions that prints the string variable in parentheses are given below.
+The `yaz` and `yazln` functions that prints the string variable in parentheses are given below.
 
 
 	public static void yaz(String gelen) {
@@ -60,7 +60,7 @@ Same function but writing parameters on the new line is given below.
 
 ### Building function to print integer and double variable parameter
 
-The `yaz and yazln` functions that print the integer variable in parentheses are given below.
+The `yaz` and `yazln` functions that print the integer variable in parentheses are given below.
 
 	public static void yazln(Integer gelen) {
 		System.out.println(gelen); 
