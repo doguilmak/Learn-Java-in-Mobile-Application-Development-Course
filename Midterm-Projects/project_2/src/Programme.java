@@ -20,6 +20,8 @@ public class Programme {
 					yedek=rastgele.nextInt(elemansayisi1)+1;
 					yedek2=rastgele.nextInt(elemansayisi2)+1;
 					dizi[5] = yedek2;
+					if(sira==5)
+						break;
 					
 					int i = 0;
 					for (i = 0; i < dizi.length; i++)	{
@@ -30,8 +32,7 @@ public class Programme {
 						dizi[sira]=yedek;
 						sira++;
 					}
-					if(sira==5)
-						break;
+					
 				}
 
 				for(int i = 1; i <= 6; i++)	{
