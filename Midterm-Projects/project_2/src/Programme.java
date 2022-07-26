@@ -9,17 +9,17 @@ public class Programme {
 				Random rastgele=new Random();
 				int elemansayisi1=34;
 				int elemansayisi2=14;
-				int[] dizi=new int[6];			
-				
+				int[] dizi=new int[6];					
 				int yedek, yedek2;
 				int sira=0;
 				
-				System.out.println("======== " + tur + " Numaralı Kolon ===========");
+				System.out.println("======== " + tur + " Numaralı Kolon ===========");				
+				
+				yedek2=rastgele.nextInt(elemansayisi2)+1;
+				dizi[5] = yedek2;				
 				
 				while(true)	{
-					yedek=rastgele.nextInt(elemansayisi1)+1;
-					yedek2=rastgele.nextInt(elemansayisi2)+1;
-					dizi[5] = yedek2;
+					yedek=rastgele.nextInt(elemansayisi1)+1;					
 					if(sira==5)
 						break;
 					
@@ -41,15 +41,12 @@ public class Programme {
 				if (tur == 1)	{
 					System.out.println("Kolon Doldu!");
 					break;
-				}
-				
+				}				
 				tur--;
-			}		
-		
+			}
 		}
 		
 		public static void main(String[] args) {			
 			sans_topu(10);			
 		}
-		
 }
