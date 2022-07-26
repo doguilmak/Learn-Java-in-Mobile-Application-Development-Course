@@ -14,32 +14,30 @@ public class Programme {
 				int yedek, yedek2;
 				int sira=0;
 				
-				System.out.println("========" + tur + " Numaralı Kolon===========");
+				System.out.println("======== " + tur + " Numaralı Kolon ===========");
 				
-				while(true) {
+				while(true)	{
 					yedek=rastgele.nextInt(elemansayisi1)+1;
+					yedek2=rastgele.nextInt(elemansayisi2)+1;
+					dizi[5] = yedek2;
+					
 					int i = 0;
-					for (i = 0; i < dizi.length; i++) {
+					for (i = 0; i < dizi.length; i++)	{
 						if(yedek==dizi[i])
 							break;
 					}
-					if(i==dizi.length)
-					{
+					if(i==dizi.length)	{
 						dizi[sira]=yedek;
 						sira++;
 					}
 					if(sira==5)
 						break;
 				}
-				
-				yedek2=rastgele.nextInt(elemansayisi2)+1;
-				dizi[5] = yedek2;
 
-				for(int i = 1; i <= 6; i++)
-				{
+				for(int i = 1; i <= 6; i++)	{
 					System.out.println(i+ " Numaralı Sayı: "+ dizi[i-1]);
 				}
-				if (tur == 1) {
+				if (tur == 1)	{
 					System.out.println("Kolon Doldu!");
 					break;
 				}
