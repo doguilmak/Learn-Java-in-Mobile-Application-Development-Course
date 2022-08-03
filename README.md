@@ -14,7 +14,7 @@ In this repository, I will share with you what we did with **Barış Mert Bozba�
  - [10-06-2021](https://github.com/doguilmak/Learn-Java-in-Mobile-Application-Development-Course/tree/main/10-06-2021) - In the course 3, we were tried to build a basic calculator that can only add numbers with using keyboard inputs.
 
 **Course 4**
- - [10-08-2021](https://github.com/doguilmak/Learn-Java-in-Mobile-Application-Development-Course/tree/main/10-08-2021) - This week, we created the algorithm that can make 5x5 matrix with random integers between $0$ and $24$. In the algorithm, first we were tried to make $5x5$ matrix from $0$ to $24$ without random order. Then, we made it with random utility.
+ - [10-08-2021](https://github.com/doguilmak/Learn-Java-in-Mobile-Application-Development-Course/tree/main/10-08-2021) - This week, we created the algorithm that can make $5x5$ matrix with random integers between $0$ and $24$. In the algorithm, first we were tried to make $5x5$ matrix from $0$ to $24$ without random order. Then, we made it with random utility.
 
 **Course 5**
  - [10-12-2021](https://github.com/doguilmak/Learn-Java-in-Mobile-Application-Development-Course/tree/main/10-12-2021) - This course focuses on creating functions. As an example, functions that make addition, subtraction and factorial calculation have been created.
