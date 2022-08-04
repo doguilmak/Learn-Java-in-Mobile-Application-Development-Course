@@ -30,7 +30,8 @@ In this repository, I will share with you what we did with **Barış Mert Bozba�
 
  - [Project 2](https://github.com/doguilmak/Learn-Java-in-Mobile-Application-Development-Course/tree/main/Midterm-Projects/project_2) - This exercise is one of the studies that the professor asked us to do in preparation for the midterm exam. This exercise is game-based. **A lucky ball game is a numerical game based on choosing a specified number of numbers from two different sets of numbers. The first set of numbers consists of numbers $1-34$, and the second set of numbers consists of numbers $1-14$. Participants will be able to participate in the game by choosing $5$ numbers from the first set of numbers and $1$ number from the second set of numbers. They can play a maximum of $10$ games in a column**. An algorithm has been created for the user to play the chance ball game automatic.
 
- - [Project 3](https://github.com/doguilmak/Learn-Java-in-Mobile-Application-Development-Course/tree/main/Midterm-Projects/project_3) - This exercise is one of the studies that the professor asked us to do in preparation for the midterm exam. This exercise is game-based. **In this game, city names consisting of $5$ letters are tried to be guessed. This process is prepared as a hangman game.**
+ - [Project 3](https://github.com/doguilmak/Learn-Java-in-Mobile-Application-Development-Course/tree/main/Midterm-Projects/project_3) - This exercise is one of the studies that the professor asked us to do in preparation for the midterm exam. This exercise is game-based. **In this game, city names consisting of $5$ letters are tried to be guessed. This process is prepared like a hangman game.**
+
 ## Contact Me
 
 If you have something to say to me please contact me: 
