@@ -95,21 +95,24 @@ You can examine the console output shown below as an example.
 
 Output:
 
-> Harf tahmin et!
+>Harf tahmin et!
 > 
-> <b>*****</b>
+><b>*****</b>
 >
 >A 
 >
->Harf tahmin et! 
+>Harf tahmin et!
+>
 ><b>A**** </b>
 >
 >F 
-> Harf tahmin et! 
+>
+>Harf tahmin et! 
 >
 ><b>AF*** Y</b> 
 >
 >Harf tahmin et! 
+>
 ><b>AFY**</b>
 >
 >O 
