@@ -23,7 +23,7 @@ In this repository, I will share with you what we did with **Barış Mert Bozba�
  - [10-18-2021](https://github.com/doguilmak/Learn-Java-in-Mobile-Application-Development-Course/tree/main/10-18-2021) - This week, we created the algorithm that can give $6$ random values between stated parameters without repeated numbers.
 
 **Course 7**
- - [11-02-2021](https://github.com/doguilmak/Learn-Java-in-Mobile-Application-Development-Course/tree/main/11-02-2021) - This week, we created the algorithm which can make calculations on circles and spheres on radius. The circumference and area of the circle calculated over the radius variable `r`, the volume of the sphere, and the surface area were calculated. This calculation was made via a class called `cember`.
+ - [11-02-2021](https://github.com/doguilmak/Learn-Java-in-Mobile-Application-Development-Course/tree/main/11-02-2021) - This week, we created the algorithm which can make calculations on circles and spheres on radius. The circumference and area of the circle, the volume and the surface area of the sphere were calculated over the radius variable `r`. This calculation was made via a class called `cember`.
 
 **Course 8 - Midterm Projects**
  - [Project 1](https://github.com/doguilmak/Learn-Java-in-Mobile-Application-Development-Course/tree/main/Midterm-Projects/project_1) - This exercise is one of the studies that the professor asked us to do in preparation for the midterm exam. This exercise is game-based. When two dice are rolled in the game **if their total is $7$ or $11$, it is won. If the total is $2$, $3$, or $12$, it is lost. If the total is $4$, $5$, $6$, $8$, $9$, $10$, the player continues to roll the dice.** In addition, we have the right to roll the dice $4$ times in total in the game.
