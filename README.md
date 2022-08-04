@@ -5,7 +5,7 @@
 In this repository, I will share with you what we did with **Barış Mert Bozbaş** step by step in the **Mobile Application Development** course taught by **Kerim Kürşat Çevik** at **Akdeniz University**. In addition, this repository contains the first seven weeks and three examples of midterm questions. It will be our pleasure to be your partner in this process. If you have anything to add, please share with us.
 
 **Course 1**
- - [10-01-2021](https://github.com/doguilmak/Learn-Java-in-Mobile-Application-Development-Course/tree/main/10-01-2021) - The basic inputs and operators made in this course.
+ - [10-01-2021](https://github.com/doguilmak/Learn-Java-in-Mobile-Application-Development-Course/tree/main/10-01-2021) - The basic operators made in this course.
 
 **Course 2**
  - [10-05-2021](https://github.com/doguilmak/Learn-Java-in-Mobile-Application-Development-Course/tree/main/10-05-2021) - In the course 2, it is aimed to randomly give $6$ numbers from the integers from $1$ to $49$ without duplicated numbers.
