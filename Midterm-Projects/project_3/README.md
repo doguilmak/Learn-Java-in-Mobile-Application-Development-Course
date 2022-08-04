@@ -43,7 +43,7 @@ First of all, `iller`, which is the array containing the provinces, the variable
 
 ### Branching process
 
-As stated in the introduction, the game continues within the framework of several different rules and limits, such as a time limitation of $60$ seconds and have $5$ rights. If it is lost, a warning is given to the player or user as **"Oyun Bitti"**. If it is timed up a warning is given to the player or user as **"$60$ saniye doldu. Islem gecersiz."**.
+As stated in the introduction, the game continues within the framework of several different rules and limits, such as a time limitation of $60$ seconds and have $5$ rights. If it is lost, a warning is given to the player or user as **"Oyun Bitti"**. If it is timed up a warning is given to the player or user as **"60 saniye doldu. Islem gecersiz."**.
 
 
 	long basla = System.currentTimeMillis();
