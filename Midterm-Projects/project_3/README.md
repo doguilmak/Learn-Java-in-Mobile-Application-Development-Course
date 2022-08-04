@@ -50,11 +50,11 @@ As stated in the introduction, the game continues within the framework of severa
 	long bitir = basla + 60*1000; // Milisaniye
 	Scanner sc = new Scanner(System.in);
 	
-	while (say < 4 && gizli.contains("*")) {			
+	while (say < 4 && gizli.contains("*")) {
 		if (System.currentTimeMillis() > bitir) {
 			System.out.println("60 saniye doldu. Islem gecersiz.");
 		    System.exit(1);
-		}			
+		}
 		System.out.println("Harf tahmin et!");
 		System.out.println(gizli);
 		String tahmin = sc.next().toUpperCase();
@@ -87,7 +87,7 @@ In this section, a comparison was made between the letters entered by the user o
 	}
 	if (gizli.equals(il)) {
 		System.out.println("Kazandiniz! Sehir: " + il);
-	}		
+	}
 
 ### Display function output on the console
 
