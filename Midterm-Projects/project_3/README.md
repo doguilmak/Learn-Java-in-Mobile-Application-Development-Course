@@ -109,7 +109,9 @@ Output:
 >
 >Harf tahmin et! 
 >
-><b>AF*** Y</b> 
+><b>AF***</b>
+>
+>Y
 >
 >Harf tahmin et! 
 >
